@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="B6_1_WhileTellerEnSom/B6_1_WhileTellerEnSom.csproj" />
+  <Project Path="B6_2_DoWhileInvoervalidatie/B6_2_DoWhileInvoervalidatie.csproj" />
+  <Project Path="B6_3_ForTafelsVanVermenigvuldiging/B6_3_ForTafelsVanVermenigvuldiging.csproj" />
+  <Project Path="E6_1_RaadspelMetLoops/E6_1_RaadspelMetLoops.csproj" />
+  <Project Path="E6_2_ASCIIArtPatronenMetNestedLoops/E6_2_ASCIIArtPatronenMetNestedLoops.csproj" />
+  <Project Path="E6_3_MenusysteemMetLoops/E6_3_MenusysteemMetLoops.csproj" />
+  <Project Path="P6_1_ToernooiVanGetallen/P6_1_ToernooiVanGetallen.csproj" />
+  <Project Path="P6_2_PythagoreischeDrietallen/P6_2_PythagoreischeDrietallen.csproj" />
+</Solution>
